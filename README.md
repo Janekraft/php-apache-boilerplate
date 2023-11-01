@@ -1,4 +1,4 @@
-# Tour de App - Nette boiler plate
+# Tour de App - PHP with Apache boiler plate
 
 Šablona pro vývoj aplikace v soutěži Tour de App s čistým php a Apache webserverem
 
