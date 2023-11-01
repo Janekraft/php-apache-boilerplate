@@ -1,6 +1,6 @@
 # Tour de App - Nette boiler plate
 
-Šablona pro vývoj aplikace v soutěži Tour de App společně s vytvořením a nahráním výstupu využívající framework [Nette](https://nette.org/cs/)
+Šablona pro vývoj aplikace v soutěži Tour de App s čistým php a Apache webserverem
 
 ## Lokální spuštění
 
@@ -14,8 +14,8 @@ Prerekvizity
 - Nainstalovaný a běžící [Docker](https://www.docker.com/)
 
 ```
-    docker build . -t tda-nette
-    docker run -p 8080:80 -v ${pwd}:/app tda-nette
+    docker build . -t tda-php
+    docker run -p 8080:80 -v ${pwd}:/app tda-php
 ```
 
 
